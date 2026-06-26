@@ -22,9 +22,14 @@ Start
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
