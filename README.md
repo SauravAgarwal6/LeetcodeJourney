@@ -6,6 +6,7 @@ Start
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0004-median-of-two-sorted-arrays) |
 | [0088-merge-sorted-array](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0217-contains-duplicate) |
@@ -58,4 +59,12 @@ Start
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
