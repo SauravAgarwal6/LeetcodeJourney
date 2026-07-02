@@ -1,0 +1,21 @@
+class Solution {
+    public boolean canPlaceFlowers(int[] flowerbed, int n) {
+
+        for (int i = 0; i < flowerbed.length; i++) {
+            if (flowerbed[i] == 0) {
+                boolean leftcheck = ((i == 0) || flowerbed[i - 1] == 0);
+                boolean rightcheck = ((flowerbed.length - 1 == i) || (flowerbed[i + 1] == 0));
+
+                if (leftcheck && rightcheck) {
+                    n--;
+                    flowerbed[i] = 1;
+                }
+                if (n == 0) {
+                    return true;
+                }
+            }
+        }
+
+        return n <= 0;
+    }
+}
