@@ -57,6 +57,7 @@ Start
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0007-reverse-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Greedy
 |  |
