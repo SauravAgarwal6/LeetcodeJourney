@@ -36,6 +36,7 @@ Start
 | [0003-longest-substring-without-repeating-characters](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
@@ -51,6 +52,7 @@ Start
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0088-merge-sorted-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0345-reverse-vowels-of-a-string) |
 ## Enumeration
 |  |
 | ------- |
