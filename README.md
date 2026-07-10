@@ -21,6 +21,7 @@ Start
 | ------- |
 | [0001-two-sum](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0242-valid-anagram) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -35,6 +36,7 @@ Start
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0345-reverse-vowels-of-a-string) |
@@ -63,6 +65,7 @@ Start
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0070-climbing-stairs) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Greedy
