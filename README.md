@@ -73,6 +73,7 @@ Start
 | [0012-integer-to-roman](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0070-climbing-stairs) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
 |  |
 | ------- |
@@ -107,4 +108,8 @@ Start
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0577-employee-bonus) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
