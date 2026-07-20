@@ -14,6 +14,7 @@ Start
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0217-contains-duplicate) |
 | [0605-can-place-flowers](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0605-can-place-flowers) |
+| [1260-shift-2d-grid](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -126,5 +127,10 @@ Start
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
