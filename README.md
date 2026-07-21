@@ -9,6 +9,7 @@ Start
 | [0004-median-of-two-sorted-arrays](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0027-remove-element) |
+| [0046-permutations](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0046-permutations) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -133,4 +134,8 @@ Start
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1260-shift-2d-grid) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
