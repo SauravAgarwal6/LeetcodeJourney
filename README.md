@@ -47,6 +47,7 @@ Start
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0242-valid-anagram) |
