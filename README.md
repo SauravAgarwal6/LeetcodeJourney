@@ -15,6 +15,7 @@ Start
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0217-contains-duplicate) |
 | [0605-can-place-flowers](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -41,6 +42,7 @@ Start
 | [0088-merge-sorted-array](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3536-maximum-product-of-two-digits](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3536-maximum-product-of-two-digits) |
@@ -84,6 +86,7 @@ Start
 | [0007-reverse-integer](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0070-climbing-stairs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3513-number-of-unique-xor-triplets-i) |
