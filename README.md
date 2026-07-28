@@ -48,6 +48,7 @@ Start
 | [1331-rank-transform-of-an-array](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -61,6 +62,7 @@ Start
 | [0345-reverse-vowels-of-a-string](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -167,4 +169,8 @@ Start
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0239-sliding-window-maximum) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
