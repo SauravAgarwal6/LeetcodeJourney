@@ -28,6 +28,7 @@ Start
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3903-smallest-stable-index-i](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -191,4 +192,8 @@ Start
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0100-same-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
