@@ -26,6 +26,7 @@ Start
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3903-smallest-stable-index-i](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3903-smallest-stable-index-i) |
@@ -40,6 +41,7 @@ Start
 | [0242-valid-anagram](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1331-rank-transform-of-an-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -88,6 +90,7 @@ Start
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -126,6 +129,7 @@ Start
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0021-merge-two-sorted-lists) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |
