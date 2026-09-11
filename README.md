@@ -16,6 +16,7 @@ Start
 | [0217-contains-duplicate](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1260-shift-2d-grid) |
