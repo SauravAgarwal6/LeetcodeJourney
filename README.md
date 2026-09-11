@@ -13,6 +13,7 @@ Start
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0283-move-zeroes) |
@@ -168,6 +169,7 @@ Start
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0136-single-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Queue
 |  |
