@@ -15,6 +15,7 @@ Start
 | [0088-merge-sorted-array](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0283-move-zeroes) |
@@ -41,6 +42,7 @@ Start
 | [0001-two-sum](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1331-rank-transform-of-an-array) |
@@ -52,6 +54,7 @@ Start
 | [0016-3sum-closest](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0628-maximum-product-of-three-numbers) |
@@ -127,6 +130,7 @@ Start
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -190,6 +194,7 @@ Start
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0169-majority-element) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Tree
 |  |
@@ -220,4 +225,8 @@ Start
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
