@@ -10,6 +10,7 @@ Start
 | [0016-3sum-closest](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0046-permutations) |
+| [0075-sort-colors](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -49,6 +50,7 @@ Start
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0242-valid-anagram) |
@@ -85,6 +87,7 @@ Start
 | ------- |
 | [0016-3sum-closest](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0283-move-zeroes) |
@@ -209,4 +212,12 @@ Start
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3904-smallest-stable-index-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
