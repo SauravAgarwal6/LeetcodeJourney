@@ -1,28 +1,16 @@
 class Solution {
     public int[] rearrangeArray(int[] nums) {
-        ArrayList<Integer> possi = new ArrayList<>();
-        ArrayList<Integer> nega = new ArrayList<>();
-        for(int  i = 0 ; i<nums.length ; i++){
-            if(nums[i] >= 0){
-                possi.add(nums[i]);
-            }else{
-                nega.add(nums[i]);
-            }
-        }
         int res[] = new int[nums.length];
-        boolean check = true;
-        int i = 0 , j= 0 , k=0;
-        while(k < nums.length){
-            if(check){
-                res[k] = possi.get(i);
-                check = false;
-                i++;
+        int pos = 0;
+        int neg = 1;
+        for(int num : nums){
+            if(num >= 0){
+                res[pos] = num;
+                pos+=2;
             }else{
-                res[k] = nega.get(j);
-                check = true;
-                j++;
+                res[neg] = num;
+                neg+=2;
             }
-            k++;
         }
         return res;
     }
