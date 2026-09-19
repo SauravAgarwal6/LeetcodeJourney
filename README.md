@@ -11,6 +11,7 @@ Start
 | [0027-remove-element](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0075-sort-colors) |
@@ -114,6 +115,7 @@ Start
 | ------- |
 | [0007-reverse-integer](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -178,6 +180,7 @@ Start
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1260-shift-2d-grid) |
 ## Backtracking
