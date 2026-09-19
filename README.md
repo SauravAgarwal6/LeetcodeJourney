@@ -12,6 +12,7 @@ Start
 | [0031-next-permutation](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0088-merge-sorted-array) |
@@ -45,6 +46,7 @@ Start
 | [0001-two-sum](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0012-integer-to-roman) |
+| [0073-set-matrix-zeroes](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0242-valid-anagram) |
@@ -176,6 +178,7 @@ Start
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1260-shift-2d-grid) |
 ## Backtracking
 |  |
