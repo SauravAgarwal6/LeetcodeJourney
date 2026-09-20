@@ -82,6 +82,7 @@ Start
 | [0345-reverse-vowels-of-a-string](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3498-reverse-degree-of-a-string](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
@@ -178,6 +179,7 @@ Start
 | [0054-spiral-matrix](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
