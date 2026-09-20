@@ -25,6 +25,7 @@ Start
 | [0239-sliding-window-maximum](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1260-shift-2d-grid) |
@@ -52,6 +53,7 @@ Start
 | [0169-majority-element](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1331-rank-transform-of-an-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3483-unique-3-digit-even-numbers) |
@@ -234,6 +236,7 @@ Start
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0560-subarray-sum-equals-k) |
 | [3903-smallest-stable-index-i](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3904-smallest-stable-index-ii) |
 ## Quicksort
