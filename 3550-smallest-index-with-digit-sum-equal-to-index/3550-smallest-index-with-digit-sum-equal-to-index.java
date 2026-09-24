@@ -4,8 +4,7 @@ class Solution {
             int sum = 0;
             int x = nums[i];
             while(x > 9){
-                int rem = x%10;
-                sum+= rem;
+                sum+= x%10;
                 x/=10;
             }
             sum+=x;
