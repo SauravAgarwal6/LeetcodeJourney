@@ -40,6 +40,7 @@ Start
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3903-smallest-stable-index-i](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3904-smallest-stable-index-ii) |
@@ -126,6 +127,7 @@ Start
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3870-count-commas-in-range) |
