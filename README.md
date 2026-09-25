@@ -22,6 +22,7 @@ Start
 | [0136-single-number](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0485-max-consecutive-ones) |
@@ -53,6 +54,7 @@ Start
 | [0073-set-matrix-zeroes](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1331-rank-transform-of-an-array) |
@@ -66,6 +68,7 @@ Start
 | [0088-merge-sorted-array](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1331-rank-transform-of-an-array) |
@@ -218,6 +221,7 @@ Start
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0229-majority-element-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Tree
 |  |
@@ -253,4 +257,5 @@ Start
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
