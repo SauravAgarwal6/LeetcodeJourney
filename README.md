@@ -87,6 +87,7 @@ Start
 | [0242-valid-anagram](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3498-reverse-degree-of-a-string](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -100,6 +101,7 @@ Start
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -258,4 +260,8 @@ Start
 | ------- |
 | [0169-majority-element](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0229-majority-element-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
