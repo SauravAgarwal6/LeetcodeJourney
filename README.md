@@ -176,6 +176,7 @@ Start
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/0577-employee-bonus) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/SauravAgarwal6/LeetcodeJourney/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Number Theory
 |  |
 | ------- |
